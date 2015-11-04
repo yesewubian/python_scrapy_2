@@ -1,4 +1,4 @@
-#scrapy_boya
+#scrapy 练习1
 
 网址：http://shop.bytravel.cn/
 
